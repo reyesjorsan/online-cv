@@ -128,23 +128,23 @@ projects:
     intro: >
       I try to keep up to date with best practices for producing content for marketing purposes, here are some courses I have been enrolled during the last years:
     assignments:
-        - title: Fundamentals of digital marketing - Google Digital Garage
+      - title: Fundamentals of digital marketing - Google Digital Garage
         link: https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing
         tagline: 2020 - Present
 
-        - title: SEO Manager - Blue Array Academy
+      - title: SEO Manager - Blue Array Academy
         link: https://www.bluearrayacademy.com/courses/seo-manager-certification
         tagline: 2020 - Present
 
-        - title: Intensive Course of German - GFBM
-        link:https://gfbm.de/
+      - title: Intensive Course of German - GFBM
+        link: https://gfbm.de/
         tagline: 2018 - 2020
 
-        - title: Linguistic and methodology update for Spanish Teacher - Instituto Cervantes
+      - title: Linguistic and methodology update for Spanish Teacher - Instituto Cervantes
         link: https://www.jetzt-lernst-du.es/
         tagline: 2018 - 2018
 
-        - title: Community Management - UNED
+      - title: Community Management - UNED
         link: https://cursocommunityfuned.com/communitymanager/presentacion/
         tagline: 2013 - 2014
 
