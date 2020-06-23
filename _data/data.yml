@@ -52,6 +52,7 @@ sidebar:
 career-profile:
     title: Content Manager, audio creator & producer
     summary: | 
+      You can download this CV as a PDF <a href="https://reyesjorsan.github.io/online-cv/" onclick="document.title='Reyes Jordan CV';window.print();">here</a>
       As a Spanish Native Speaker with a Master degree and several years of experience in content management and broadcasting I now look for new challenges in the sphere of content creation in Berlin’s tech scene, focusing on SEO.
 
 education:
