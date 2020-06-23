@@ -21,14 +21,14 @@ sidebar:
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@reyesjorsan'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
-        level: C1
+        level: B2
 
       - idiom: German
         level: B2
@@ -40,42 +40,41 @@ sidebar:
         level: B1
 
     interests:
-      - item: Climbing
+      - item: Writing
         link:
 
-      - item: Snowboarding
+      - item:  Audio Recording
         link:
 
-      - item: Cooking
+      - item: Singing
         link:
 
 career-profile:
-    title: Voice Over and Content Producer
-    summary: |
+    title: Content Manager, audio creator & producer
+    summary: As a Spanish Native Speaker with a
+      Master degree and several years of
+      experience in content management and
+      broadcasting I now look
+      for new challenges in the sphere of
+      content creation in
+      Berlin’s tech scene.
 
 
 education:
-  - degree:
+  - degree: Master degree in Radio
     university: University Rey Juan carlos
     time: 2014 - 2015
     details: |
-      Development of programs. Production and edition of podcasts and reports.
-         - Bullet point
-         - Bullet point
-    - degree: Master degree in Radio
-      university: University Rey Juan carlos
-      time: 2014 - 2015
-      details: |
-       Development of programs. Production and edition of podcasts and reports.
-          - Bullet point
-          - Bullet point
+      Development of different radio formats. Production and edition of podcasts about psychology and cultural reports.
+         - Bullet point I managed and produced an interview to one of the most famous singer in Spain, Leiva.
+         - Bullet point I covered cultural press conferences about the Book Fair 2015.
     - degree: Mass Media Bachelor degree
       university: Seville University
       time: 2008 - 2013
       details: |
        Production, realization, edition and content writing for different audiovisuals projects.
-          - Bullet point
-          - Bullet point
+          - Bullet point I improved the content for the Web of the Communication Department at University, with new audio formats about the campus life.
+          - Bullet point:
 experiences:
     - role: Voice Over and content producer
       time: 2019 - Present
@@ -93,8 +92,8 @@ experiences:
         Content creation for a daily magazine: new search related to the hispanic community in Dublin.
         Management of social networks (attend calls, email and chat supervision).
         Administration tasks such as contracts with providers, accounts, office management.
-           - Bullet point
-          - Bullet point
+          - Bullet point Organisation of the Latin Christmas Festival in Dublin 2017
+          - Bullet point I achieved to generate more traffic and followers for Twitter at Near FM
     - role: Product content and editor
       time: 2016
       company: Radio Online Murcia, Murcia, Spain
@@ -103,7 +102,7 @@ experiences:
         Interviews and reports for ROM TV Channel.
         Social media and office management.
         Host for bi-weekly radio sections, one about social media and the other one about local tourism.
-          - Bullet point
+          - Bullet point Creator and Producer of a video channel reports about the Murcia University.
           - Bullet point
       - role: Customer Advisor/Promoter
              time: 2015 - 2016
@@ -117,73 +116,43 @@ experiences:
              - Bullet point
       - role: Content producer and editor
             time: 2014 - 2015
-            company: National radio of Spain, Madrid, Spain
+            company: National Radio of Spain, Madrid, Spain
             details: |
               Producer, editor and content writer of interviews and audio reports for the Cultural Department.
               Participation in creating new formats and contents for the audience.
-              Office management.
               Covering of press conferences.
-                 - Bullet point
+                 - Bullet point I covered the breaking news of the most important tourism trade in Spain
                  - Bullet point
       - role: Contetn producer, editor and broadcaster
           time: 2014 - 2015
           company: Radio Giralda Official
           details: |
           Host of the morning magazine 'Sevilla es más'
-          Responsible for interviews, proceedings, reports and production for events.
           I was responsible for interviews, debates, reports and production for events.
-            - Bullet point
-           - Bullet point
-
-education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree:
+          - Bullet point I covered all the official events for the local Fair of Sevilla
+          - Bullet point I conduted many political and cultural interviews of well-known peolple from my city
 
 
 projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-
-projects:
-    title: Online Marketing Tools
-    School:
-    time: 2020-Present
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
       - title: Fundamentals of digital marketing - Google Digital Garage
         link: https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing
-        tagline: 2020 - present
+        tagline: 2020 - Present
 
       - title: SEO Manager - Blue Array Academy
         link: https://www.bluearrayacademy.com/courses/seo-manager-certification
         tagline: 2020 - Present
 
       - title: Intensive Course of German - GFBM
-        link:
+        link:https://gfbm.de/
         tagline: 2018 - 2020
 
       - title: Linguistic and methodology update for Spanish Teacher - Instituto Cervantes
-        link:
+        link: https://www.jetzt-lernst-du.es/
         tagline: 2018
 
       - title: Community Management - UNED
-        link:
+        link: https://cursocommunityfuned.com/communitymanager/presentacion/
         tagline: 2013 - 2014
 
 
