@@ -51,40 +51,37 @@ sidebar:
 
 career-profile:
     title: Content Manager, audio creator & producer
-    summary: As a Spanish Native Speaker with a
+    summary: | 
+      As a Spanish Native Speaker with a
       Master degree and several years of
       experience in content management and
-      broadcasting I now look
-      for new challenges in the sphere of
-      content creation in
-      Berlin’s tech scene.
-
+      broadcasting I now look for new 
+      hallenges in the sphere of content 
+      creation in Berlin’s tech scene, focusing on SEO.
 
 education:
-  - degree: Master degree in Radio
-    university: University Rey Juan carlos
+  - degree: MA in Radio
+    university: Universidad Rey Juan carlos, Madrid
     time: 2014 - 2015
     details: |
-      Development of different radio formats. Production and edition of podcasts about psychology and cultural reports.
-         - Bullet point I managed and produced an interview to one of the most famous singer in Spain, Leiva.
-         - Bullet point I covered cultural press conferences about the Book Fair 2015.
-    - degree: Mass Media Bachelor degree
-      university: Seville University
-      time: 2008 - 2013
-      details: |
-       Production, realization, edition and content writing for different audiovisuals projects.
-          - Bullet point I improved the content for the Web of the Communication Department at University, with new audio formats about the campus life.
-          - Bullet point:
+      Development of different radio formats. Production and edition of podcasts about psychology and cultural magazines.
+         - I managed and produced an interview to one of the most famous singer in Spain: Leiva.
+         - I covered cultural press conferences about the Book Fair 2015.
+  - degree: Degree in Media Industry studies
+    university: Universidad Hispalense, Sevilla
+    time: 2008 - 2013
+    details: |
+      Production, realization, edition and content writing for different audiovisuals projects.
+          - I improved the content for the Web of the Communication Department at University, with new audio formats about the campus life.
+
 experiences:
     - role: Voice Over and content producer
       time: 2019 - Present
       company: Freelancer
       details: |
-      Recording, edition and management of any kind of project such as commercials or e-learnings.
-      Providing feedback for improving contents for customers.
-      Personal advising for queries and requirements.
-          - Bullet point
-          - Bullet point
+        Recording, edition and management of any kind of audio project such as commercials or e-learnings.
+        As a freelancer I had to also advise some of my clients on how to generate better quality content, so that the listener keeps engaged.
+          - 5/5 start reviews
     - role: Content producer and editor
       time: 2017 - 2018
       company: Near FM, Dublin
@@ -92,8 +89,8 @@ experiences:
         Content creation for a daily magazine: new search related to the hispanic community in Dublin.
         Management of social networks (attend calls, email and chat supervision).
         Administration tasks such as contracts with providers, accounts, office management.
-          - Bullet point Organisation of the Latin Christmas Festival in Dublin 2017
-          - Bullet point I achieved to generate more traffic and followers for Twitter at Near FM
+          - Organisation of the Latin Christmas Festival in Dublin 2017
+          - I achieved to generate more traffic and followers for Twitter at Near FM
     - role: Product content and editor
       time: 2016
       company: Radio Online Murcia, Murcia, Spain
@@ -102,58 +99,59 @@ experiences:
         Interviews and reports for ROM TV Channel.
         Social media and office management.
         Host for bi-weekly radio sections, one about social media and the other one about local tourism.
-          - Bullet point Creator and Producer of a video channel reports about the Murcia University.
-          - Bullet point
-      - role: Customer Advisor/Promoter
-             time: 2015 - 2016
-             company: El Corte Inglés, Murcia, Spain
-             details: |
+          - Creator and Producer of a video channel reports about the Murcia University.
+    - role: Customer Advisor/Promoter
+         time: 2015 - 2016
+         company: El Corte Inglés, Murcia, Spain
+         details: |
           Providing advice and suggestions concerning a different kind of books.
           Dealing with any kind of queries or doubts.
           Taking care of needs, reclamations or returns.
           Reposition of products.
-             - Bullet point
-             - Bullet point
-      - role: Content producer and editor
-            time: 2014 - 2015
-            company: National Radio of Spain, Madrid, Spain
-            details: |
-              Producer, editor and content writer of interviews and audio reports for the Cultural Department.
-              Participation in creating new formats and contents for the audience.
-              Covering of press conferences.
-                 - Bullet point I covered the breaking news of the most important tourism trade in Spain
-                 - Bullet point
-      - role: Contetn producer, editor and broadcaster
-          time: 2014 - 2015
-          company: Radio Giralda Official
-          details: |
+
+    - role: Content producer and editor
+        time: 2014 - 2015
+        company: National Radio of Spain, Madrid, Spain
+        details: |
+          Producer, editor and content writer of interviews and audio reports for the Cultural Department.
+          Participation in creating new formats and contents for the audience.
+          Covering of press conferences.
+             - I covered the breaking news of the most important tourism trade in Spain
+             
+    - role: Contetn producer, editor and broadcaster
+      time: 2014 - 2015
+      company: Radio Giralda Official
+      details: |
           Host of the morning magazine 'Sevilla es más'
           I was responsible for interviews, debates, reports and production for events.
-          - Bullet point I covered all the official events for the local Fair of Sevilla
-          - Bullet point I conduted many political and cultural interviews of well-known peolple from my city
+          - I covered all the official events for the local Fair of Sevilla
+          - I conduted many political and cultural interviews of well-known peolple from my city
 
 
 projects:
+    title: Courses
+    intro: >
+      I try to keep up to date with best practices for producing content for marketing purposes, here are some courses I have been enrolled during the last years:
+    assignments:
+    - title: Fundamentals of digital marketing - Google Digital Garage
+    link: https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing
+    tagline: 2020 - Present
 
-      - title: Fundamentals of digital marketing - Google Digital Garage
-        link: https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing
-        tagline: 2020 - Present
+    - title: SEO Manager - Blue Array Academy
+    link: https://www.bluearrayacademy.com/courses/seo-manager-certification
+    tagline: 2020 - Present
 
-      - title: SEO Manager - Blue Array Academy
-        link: https://www.bluearrayacademy.com/courses/seo-manager-certification
-        tagline: 2020 - Present
+    - title: Intensive Course of German - GFBM
+    link:https://gfbm.de/
+    tagline: 2018 - 2020
 
-      - title: Intensive Course of German - GFBM
-        link:https://gfbm.de/
-        tagline: 2018 - 2020
+    - title: Linguistic and methodology update for Spanish Teacher - Instituto Cervantes
+    link: https://www.jetzt-lernst-du.es/
+    tagline: 2018
 
-      - title: Linguistic and methodology update for Spanish Teacher - Instituto Cervantes
-        link: https://www.jetzt-lernst-du.es/
-        tagline: 2018
-
-      - title: Community Management - UNED
-        link: https://cursocommunityfuned.com/communitymanager/presentacion/
-        tagline: 2013 - 2014
+    - title: Community Management - UNED
+    link: https://cursocommunityfuned.com/communitymanager/presentacion/
+    tagline: 2013 - 2014
 
 
     skills:
