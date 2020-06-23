@@ -7,33 +7,37 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Reyes Jordán
+    tagline: Content Manager, audio creator & producer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: reyesjorsan@gmail.com
+    phone: 015788328403
+    adress: Schulenburgring, 12101 Berlin
+    #website:  #do not add http://
+    linkedin: reyesjordan
+    github: reyesjorsan
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@reyesjorsan'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
-        level: Native
+        level: C1
 
-      - idiom: French
-        level: Professional
+      - idiom: German
+        level: B2
 
       - idiom: Spanish
-        level: Professional
+        level: Native
+
+      - idiom: Portuguese
+        level: B1
 
     interests:
       - item: Climbing
@@ -46,14 +50,91 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: Voice Over and Content Producer
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+
+
+education:
+  - degree:
+    university: University Rey Juan carlos
+    time: 2014 - 2015
+    details: |
+      Development of programs. Production and edition of podcasts and reports.
+         - Bullet point
+         - Bullet point
+    - degree: Master degree in Radio
+      university: University Rey Juan carlos
+      time: 2014 - 2015
+      details: |
+       Development of programs. Production and edition of podcasts and reports.
+          - Bullet point
+          - Bullet point
+    - degree: Mass Media Bachelor degree
+      university: Seville University
+      time: 2008 - 2013
+      details: |
+       Production, realization, edition and content writing for different audiovisuals projects.
+          - Bullet point
+          - Bullet point
+experiences:
+    - role: Voice Over and content producer
+      time: 2019 - Present
+      company: Freelancer
+      details: |
+      Recording, edition and management of any kind of project such as commercials or e-learnings.
+      Providing feedback for improving contents for customers.
+      Personal advising for queries and requirements.
+          - Bullet point
+          - Bullet point
+    - role: Content producer and editor
+      time: 2017 - 2018
+      company: Near FM, Dublin
+      details: |
+        Content creation for a daily magazine: new search related to the hispanic community in Dublin.
+        Management of social networks (attend calls, email and chat supervision).
+        Administration tasks such as contracts with providers, accounts, office management.
+           - Bullet point
+          - Bullet point
+    - role: Product content and editor
+      time: 2016
+      company: Radio Online Murcia, Murcia, Spain
+      details: |
+        Producer and editor of the program 'Aquí y Ahora'.
+        Interviews and reports for ROM TV Channel.
+        Social media and office management.
+        Host for bi-weekly radio sections, one about social media and the other one about local tourism.
+          - Bullet point
+          - Bullet point
+      - role: Customer Advisor/Promoter
+             time: 2015 - 2016
+             company: El Corte Inglés, Murcia, Spain
+             details: |
+          Providing advice and suggestions concerning a different kind of books.
+          Dealing with any kind of queries or doubts.
+          Taking care of needs, reclamations or returns.
+          Reposition of products.
+             - Bullet point
+             - Bullet point
+      - role: Content producer and editor
+            time: 2014 - 2015
+            company: National radio of Spain, Madrid, Spain
+            details: |
+              Producer, editor and content writer of interviews and audio reports for the Cultural Department.
+              Participation in creating new formats and contents for the audience.
+              Office management.
+              Covering of press conferences.
+                 - Bullet point
+                 - Bullet point
+      - role: Contetn producer, editor and broadcaster
+          time: 2014 - 2015
+          company: Radio Giralda Official
+          details: |
+          Host of the morning magazine 'Sevilla es más'
+          Responsible for interviews, proceedings, reports and production for events.
+          I was responsible for interviews, debates, reports and production for events.
+            - Bullet point
+           - Bullet point
+
 education:
     - degree: MSc in Computer Science
       university: University of London
@@ -66,55 +147,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    - degree:
+
+
 projects:
     title: Projects
     intro: >
@@ -122,69 +157,55 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+projects:
+    title: Online Marketing Tools
+    School:
+    time: 2020-Present
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Fundamentals of digital marketing - Google Digital Garage
+        link: https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing
+        tagline: 2020 - present
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: SEO Manager - Blue Array Academy
+        link: https://www.bluearrayacademy.com/courses/seo-manager-certification
+        tagline: 2020 - Present
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Intensive Course of German - GFBM
+        link:
+        tagline: 2018 - 2020
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Linguistic and methodology update for Spanish Teacher - Instituto Cervantes
+        link:
+        tagline: 2018
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Community Management - UNED
+        link:
+        tagline: 2013 - 2014
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
-skills:
-    title: Skills &amp; Proficiency
+    skills:
+      title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Python & Django
-        level: 98%
+      toolset:
+        - name: MS Office
+          level: 75%
 
-      - name: Javascript & jQuery
-        level: 98%
+        - name: Wordpress
+          level: 65%
 
-      - name: Angular
-        level: 98%
+        - name: SEO for content writting
+          level: 65%
 
-      - name: HTML5 & CSS
-        level: 95%
+        - name: Adobe Premiere
+          level: 50%
 
-      - name: Ruby on Rails
-        level: 85%
+        - name: Adobe Photoshop
+          level: 25%
 
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
