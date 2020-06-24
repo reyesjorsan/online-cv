@@ -28,7 +28,7 @@ sidebar:
 
     languages:
       - idiom: English
-        level: B2
+        level: C1
 
       - idiom: German
         level: B2
@@ -69,7 +69,7 @@ education:
     time: 2008 - 2013
     details: |
       Production, realization, edition and content writing for different audiovisuals projects.
-          - I improved the content for the Web of the Communication Department at University, with new audio formats about the campus life.
+          - I improved the content for the Web of the Communication Department at University, with new audio formats about the campus life
 
 experiences:
     - role: Voice Over and content producer
@@ -96,7 +96,7 @@ experiences:
         Interviews and reports for ROM TV Channel.
         Social media and office management.
         Host for bi-weekly radio sections, one about social media and the other one about local tourism.
-          - Creator and Producer of a video channel reports about the Murcia University.
+          - Creator and Producer of a video channel reports about the Murcia University
     - role: Customer Advisor/Promoter
       time: 2015 - 2016
       company: El Corte Inglés, Murcia, Spain
@@ -116,7 +116,7 @@ experiences:
              - I covered the breaking news of the most important tourism trade in Spain
              
     - role: Content producer, editor and broadcaster
-      time: 2014 - 2015
+      time: 2013 - 2014
       company: Radio Giralda Official
       details: |
           I was the host of the morning magazine 'Sevilla es más' and responsible for interviews, debates, reports and production for events.
@@ -154,19 +154,19 @@ skills:
     
     toolset:
         - name: MS Office
-          level: 75%
+          level: 90%
 
         - name: Wordpress
-          level: 65%
+          level: 80%
 
         - name: SEO for content writting
           level: 65%
 
         - name: Adobe Premiere
-          level: 50%
+          level: 80%
 
         - name: Adobe Photoshop
-          level: 25%
+          level: 60%
 
 
 footer: >
